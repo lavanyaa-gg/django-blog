@@ -118,7 +118,8 @@ def vote(request):
     
 
 
-
+def hello():
+    print("Hello world")
 
 
   
