@@ -117,7 +117,10 @@ def vote(request):
     return JsonResponse({'message': 'Blog is voted sucessfully'})
     
 
-
+def lavanyaa():
+    #asdasdsadasa
+    #adsasdsadadsa
+    pass
 
 
 
