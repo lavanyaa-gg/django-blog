@@ -117,6 +117,10 @@ def vote(request):
     return JsonResponse({'message': 'Blog is voted sucessfully'})
     
 
+
+def hello():
+    print("Hello world")
+    
 def lavanyaa():
     #asdasdsadasa
     #adsasdsadadsa
